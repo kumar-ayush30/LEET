@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/kumar-ayush30/LEET/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/kumar-ayush30/LEET/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/kumar-ayush30/LEET/tree/master/0326-power-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kumar-ayush30/LEET/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kumar-ayush30/LEET/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/kumar-ayush30/LEET/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
