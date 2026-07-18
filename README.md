@@ -54,9 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kumar-ayush30/LEET/tree/master/0020-valid-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/kumar-ayush30/LEET/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/kumar-ayush30/LEET/tree/master/1903-largest-odd-number-in-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kumar-ayush30/LEET/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
