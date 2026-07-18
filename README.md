@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kumar-ayush30/LEET/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/kumar-ayush30/LEET/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/kumar-ayush30/LEET/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kumar-ayush30/LEET/tree/master/0342-power-of-four) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kumar-ayush30/LEET/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kumar-ayush30/LEET/tree/master/0029-divide-two-integers) |
+| [0342-power-of-four](https://github.com/kumar-ayush30/LEET/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -39,4 +41,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/kumar-ayush30/LEET/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kumar-ayush30/LEET/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
