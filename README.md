@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/kumar-ayush30/LEET/tree/master/0485-max-consecutive-ones) |
 | [1672-richest-customer-wealth](https://github.com/kumar-ayush30/LEET/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/kumar-ayush30/LEET/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kumar-ayush30/LEET/tree/master/1979-find-greatest-common-divisor-of-array) |
