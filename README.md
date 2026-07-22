@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/kumar-ayush30/LEET/tree/master/0504-base-7) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kumar-ayush30/LEET/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/kumar-ayush30/LEET/tree/master/1903-largest-odd-number-in-string) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/kumar-ayush30/LEET/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/kumar-ayush30/LEET/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
