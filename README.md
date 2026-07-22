@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/kumar-ayush30/LEET/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/kumar-ayush30/LEET/tree/master/0485-max-consecutive-ones) |
+| [1260-shift-2d-grid](https://github.com/kumar-ayush30/LEET/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/kumar-ayush30/LEET/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/kumar-ayush30/LEET/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kumar-ayush30/LEET/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/kumar-ayush30/LEET/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/kumar-ayush30/LEET/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/kumar-ayush30/LEET/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/kumar-ayush30/LEET/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/kumar-ayush30/LEET/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/kumar-ayush30/LEET/tree/master/2022-convert-1d-array-into-2d-array) |
 ## String
