@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/kumar-ayush30/LEET/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kumar-ayush30/LEET/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/kumar-ayush30/LEET/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kumar-ayush30/LEET/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/kumar-ayush30/LEET/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kumar-ayush30/LEET/tree/master/0342-power-of-four) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kumar-ayush30/LEET/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -105,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kumar-ayush30/LEET/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/kumar-ayush30/LEET/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/kumar-ayush30/LEET/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
