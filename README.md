@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kumar-ayush30/LEET/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/kumar-ayush30/LEET/tree/master/0225-implement-stack-using-queues) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kumar-ayush30/LEET/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/kumar-ayush30/LEET/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
@@ -126,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3866-first-unique-even-element](https://github.com/kumar-ayush30/LEET/tree/master/3866-first-unique-even-element) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kumar-ayush30/LEET/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kumar-ayush30/LEET/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
