@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/kumar-ayush30/LEET/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/kumar-ayush30/LEET/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kumar-ayush30/LEET/tree/master/3483-unique-3-digit-even-numbers) |
+| [3866-first-unique-even-element](https://github.com/kumar-ayush30/LEET/tree/master/3866-first-unique-even-element) |
 ## Matrix
 |  |
 | ------- |
@@ -115,9 +116,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/kumar-ayush30/LEET/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kumar-ayush30/LEET/tree/master/3483-unique-3-digit-even-numbers) |
+| [3866-first-unique-even-element](https://github.com/kumar-ayush30/LEET/tree/master/3866-first-unique-even-element) |
 ## Enumeration
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/kumar-ayush30/LEET/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kumar-ayush30/LEET/tree/master/3483-unique-3-digit-even-numbers) |
+## Counting
+|  |
+| ------- |
+| [3866-first-unique-even-element](https://github.com/kumar-ayush30/LEET/tree/master/3866-first-unique-even-element) |
 <!---LeetCode Topics End-->
