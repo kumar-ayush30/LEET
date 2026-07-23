@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/kumar-ayush30/LEET/tree/master/1903-largest-odd-number-in-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/kumar-ayush30/LEET/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/kumar-ayush30/LEET/tree/master/2390-removing-stars-from-a-string) |
+| [3798-largest-even-number](https://github.com/kumar-ayush30/LEET/tree/master/3798-largest-even-number) |
 ## Greedy
 |  |
 | ------- |
